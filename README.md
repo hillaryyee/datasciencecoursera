@@ -1,2 +1,2 @@
 # datasciencecoursera
-for coursera crouse
+for coursera course
